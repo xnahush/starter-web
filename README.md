@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+##Copyright Copyright 2020!
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
