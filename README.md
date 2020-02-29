@@ -2,7 +2,7 @@
 
 ##Copyright Copyright 2020!
 
-This repository is for showing how Git and GitHub work. Adding a line for demo.
+This repository is for showing how Git and GitHub work. Adding a line for demo. More changes from myfeature branch.
 
 ## Purpose
 
